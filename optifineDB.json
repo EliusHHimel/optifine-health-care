@@ -1,0 +1,106 @@
+[
+    {
+        "catid": "gen-health",
+        "name": "General Medicine",
+        "description": "Internal medicine or general medicine is the medical specialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists, or physicians in Commonwealth nations.",
+        "img": "https://www.majhospital.com//uploads/department/general-medicine.jpg",
+        "serviceDetails": [
+            {
+                "id": "1",
+                "title": "3D Modeling For Absolute Beginners",
+                "fee": "3000",
+                "img": "https://www.avantorsciences.com/m-avantorsciences.com/en_US/images/commercial-kitting-general-healthcare-products-128.jpg"
+            },
+            {
+                "id": "2",
+                "title": "3D Modeling & Rendering",
+                "fee": "5000",
+                "img": "https://www.craftechind.com/app/uploads/shutterstock_109750091.jpg"
+            },
+            {
+                "id": "3",
+                "title": "3D Modeling Fundamentals",
+                "fee": "5000",
+                "img": "https://images.unsplash.com/photo-1536064479547-7ee40b74b807?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z2VuZXJhbCUyMHByYWN0aWNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+            }
+        ]
+    },
+    {
+        "catid": "cardiology",
+        "name": "Cardiology",
+        "description": "3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweQLfHLCGOCzOQMux7TrvP3xeFNzJ5fMpcQ&usqp=CAU",
+        "serviceDetails": [
+            {
+                "id": "4",
+                "title": "Full Stack Development",
+                "fee": "6000",
+                "img": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/best-full-stack-web-developer-serviceDetails-certification-online-ppjh0d5a.jpg"
+            },
+            {
+                "id": "5",
+                "title": "Advanced Web App Development",
+                "fee": "8000",
+                "img": "https://www.felixent.org/wp-content/uploads/2019/05/web-development.jpg"
+            },
+            {
+                "id": "6",
+                "title": "Become a Front-End Developer",
+                "fee": "5000",
+                "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png"
+            }
+        ]
+    },
+    {
+        "catid": "orthopedics",
+        "name": "Orthopedics",
+        "description": "5",
+        "img": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-951890054_header-1024x575.jpg?w=1155&h=1528",
+        "serviceDetails": [
+            {
+                "id": "7",
+                "title": "Java Programming & Software Engineering Fundamentals",
+                "fee": "6000",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8vZ_85ZL_FBwE487U4ho_JoN3gpTyB9V58w&usqp=CAU"
+            },
+            {
+                "id": "8",
+                "title": "Python Beginners To Advance",
+                "fee": "8000",
+                "img": "https://i.ytimg.com/vi/PJlAnR3asGQ/maxresdefault.jpg"
+            },
+            {
+                "id": "9",
+                "title": "Android Development",
+                "fee": "5000",
+                "img": "https://i1.wp.com/elysiumacademy.org/wp-content/uploads/2018/12/Android.jpg"
+            },
+            {
+                "id": "10",
+                "title": "Artificial Intelligency with Python",
+                "fee": "5000",
+                "img": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/Artificial-Intelligence-With-Python.jpg"
+            }
+        ]
+    },
+    {
+        "catid": "dental",
+        "name": "Dental",
+        "description": "The dental clinic is a place where a dentist performs dental procedures and treatments on patients. Dental clinics can be found in hospitals, schools, government offices, and other health-related establishments. The clinic is usually a single room housing all dental equipment and tools.",
+        "img": "https://fermeliadental.com/wp-content/uploads/2019/05/benefits-of-regular-dental-visits.jpeg",
+        "serviceDetails": [
+            {
+                "id": "11",
+                "title": "Graphics Design Masterclass",
+                "fee": "6000",
+                "img": "https://i.ytimg.com/vi/8oisaiPASeo/maxresdefault.jpg"
+            },
+            {
+                "id": "12",
+                "title": "Graphic Design Advance",
+                "fee": "8000",
+                "img": "https://axcoreacademy.com/wp-content/uploads/2020/09/graphic-designing-advance.jpg"
+            }
+        ]
+    }
+]
