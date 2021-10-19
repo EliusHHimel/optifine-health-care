@@ -7,6 +7,9 @@ import Login from './Pages/Login/Login';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import Header from './Pages/Shared/Header/Header';
 import Signup from './Pages/Signup/Signup';
+import Contact from './Pages/Contact/Contact';
+import About from './Pages/About/About'
+import Footer from './Pages/Shared/Footer/Footer'
 
 function App() {
   return (
@@ -15,6 +18,12 @@ function App() {
         <BrowserRouter>
           <Header></Header>
           <Switch>
+            <Route exact path="/">
+              <Home></Home>
+            </Route>
+            <Route path="/home">
+              <Home></Home>
+            </Route>
             <Route path="/login">
               <Login></Login>
             </Route>
@@ -24,10 +33,14 @@ function App() {
             <PrivateRoute path="/details/:serviceId">
               <AllDetails></AllDetails>
             </PrivateRoute>
-            <Route exact path="/">
-              <Home></Home>
+            <Route path='/contact'>
+              <Contact></Contact>
+            </Route>
+            <Route path='/about'>
+              <About></About>
             </Route>
           </Switch>
+          <Footer></Footer>
         </BrowserRouter>
       </AuthProvider>
     </div>
