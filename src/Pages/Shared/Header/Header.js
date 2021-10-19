@@ -5,8 +5,8 @@ import useAuth from '../../../hooks/useAuth';
 const Header = () => {
     const { user, signOutHandle } = useAuth();
     return (
-        <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div className="sticky-top">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid">
                     <Link className="navbar-brand h1" to="/"><span className="text-danger">Optifine</span> Health Care</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

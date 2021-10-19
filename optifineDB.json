@@ -28,8 +28,8 @@
     {
         "catid": "cardiology",
         "name": "Cardiology",
-        "description": "3",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweQLfHLCGOCzOQMux7TrvP3xeFNzJ5fMpcQ&usqp=CAU",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine.",
+        "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/248/248935/cardiology-cath-lab.jpg",
         "serviceDetails": [
             {
                 "id": "4",
@@ -54,7 +54,7 @@
     {
         "catid": "orthopedics",
         "name": "Orthopedics",
-        "description": "5",
+        "description": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system.",
         "img": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-951890054_header-1024x575.jpg?w=1155&h=1528",
         "serviceDetails": [
             {
@@ -87,6 +87,46 @@
         "catid": "dental",
         "name": "Dental",
         "description": "The dental clinic is a place where a dentist performs dental procedures and treatments on patients. Dental clinics can be found in hospitals, schools, government offices, and other health-related establishments. The clinic is usually a single room housing all dental equipment and tools.",
+        "img": "https://fermeliadental.com/wp-content/uploads/2019/05/benefits-of-regular-dental-visits.jpeg",
+        "serviceDetails": [
+            {
+                "id": "11",
+                "title": "Graphics Design Masterclass",
+                "fee": "6000",
+                "img": "https://i.ytimg.com/vi/8oisaiPASeo/maxresdefault.jpg"
+            },
+            {
+                "id": "12",
+                "title": "Graphic Design Advance",
+                "fee": "8000",
+                "img": "https://axcoreacademy.com/wp-content/uploads/2020/09/graphic-designing-advance.jpg"
+            }
+        ]
+    },
+    {
+        "catid": "diagnostic",
+        "name": "Modern Diagnostic Center",
+        "description": "WE CARE YOUR HEALTH AND CHECKUP WITH BEST Technology Popular Diagnostic Centre Ltd. has a collection of the most advanced medical technologies.",
+        "img": "https://fermeliadental.com/wp-content/uploads/2019/05/benefits-of-regular-dental-visits.jpeg",
+        "serviceDetails": [
+            {
+                "id": "11",
+                "title": "Graphics Design Masterclass",
+                "fee": "6000",
+                "img": "https://i.ytimg.com/vi/8oisaiPASeo/maxresdefault.jpg"
+            },
+            {
+                "id": "12",
+                "title": "Graphic Design Advance",
+                "fee": "8000",
+                "img": "https://axcoreacademy.com/wp-content/uploads/2020/09/graphic-designing-advance.jpg"
+            }
+        ]
+    },
+    {
+        "catid": "ambulance",
+        "name": "24x7 Ambulance",
+        "description": "Need ambulance service near you? We provides emergency ambulance service with life support and freezing support. Book now.",
         "img": "https://fermeliadental.com/wp-content/uploads/2019/05/benefits-of-regular-dental-visits.jpeg",
         "serviceDetails": [
             {
