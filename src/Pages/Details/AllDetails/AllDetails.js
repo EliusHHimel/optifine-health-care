@@ -10,7 +10,7 @@ const AllDetails = () => {
             .then(res => res.json())
             .then(data => setAllService(data))
     }, [])
-    // console.log(allService)
+
     const service = allService.find(element => element.id == serviceId);
     const { name, img, description } = service;
 
