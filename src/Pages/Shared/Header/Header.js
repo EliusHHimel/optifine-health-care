@@ -18,6 +18,9 @@ const Header = () => {
                                 <NavLink className="nav-link" activeStyle={{}} aria-current="page" exact to="/">Home</NavLink>
                             </li>
                             <li className="nav-item">
+                                <NavLink className="nav-link" activeStyle={{}} aria-current="page" to="/appointment">Appointment</NavLink>
+                            </li>
+                            <li className="nav-item">
                                 <NavLink className="nav-link" activeStyle={{}} aria-current="page" to="/about">About Us</NavLink>
                             </li>
                             <li className="nav-item">

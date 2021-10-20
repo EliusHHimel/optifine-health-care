@@ -4,11 +4,16 @@ import { Link } from 'react-router-dom';
 const Service = (props) => {
     const { id, name, img, description } = props.service;
     return (
-        <div className="col-lg-6 col-md-4 g-4">
-            <img src={img} alt="" className='img-fluid' />
-            <h3>{name}</h3>
-            <p>{description}</p>
-            <Link className='btn btn-info' to={`/details/${id}`}>View Details</Link>
+
+        <div className="col mt-2">
+            <div className="card">
+                <img src={img} className="card-img-top img-fluid" alt="..." />
+                <div className="card-body">
+                    <h5 className="card-title">{name}</h5>
+                    <p className="card-text">{description}</p>
+                    <Link className='btn btn-info' to={`/details/${id}`}>View Details</Link>
+                </div>
+            </div>
         </div>
     );
 };

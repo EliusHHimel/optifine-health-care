@@ -22,8 +22,10 @@ const Login = () => {
 
             })
     }
+
+
     return (
-        <div className="login-container">
+        <div className="login-container mb-3">
             <div>
                 <h1 className='mt-4'>Login to your account</h1>
                 <form onSubmit={loginHandler} className='mt-4'>

@@ -10,9 +10,9 @@ const Services = () => {
     }, [])
 
     return (
-        <div className='container' id="services">
+        <div className='container mt-3' id="services">
             <div><h1>Our Services</h1></div>
-            <div className='row'>
+            <div class="row row-cols-1 row-cols-md-2 mt-3 g-4">
                 {allServices.map(service =>
                     <Service key={service.id} service={service}></Service>
                 )

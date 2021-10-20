@@ -10,6 +10,8 @@ import Signup from './Pages/Signup/Signup';
 import Contact from './Pages/Contact/Contact';
 import About from './Pages/About/About'
 import Footer from './Pages/Shared/Footer/Footer'
+import Appointment from './Pages/Appointment/Appointment/Appointment';
+import NotFound from './Pages/NotFound/NotFound'
 
 function App() {
   return (
@@ -23,6 +25,9 @@ function App() {
             </Route>
             <Route path="/home">
               <Home></Home>
+            </Route>
+            <Route path='/appointment'>
+              <Appointment></Appointment>
             </Route>
             <Route path="/login">
               <Login></Login>
@@ -38,6 +43,9 @@ function App() {
             </Route>
             <Route path='/about'>
               <About></About>
+            </Route>
+            <Route path='*'>
+              <NotFound></NotFound>
             </Route>
           </Switch>
           <Footer></Footer>

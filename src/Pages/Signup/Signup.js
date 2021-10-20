@@ -22,7 +22,7 @@ const Signup = () => {
             })
     }
     return (
-        <div className="login-container">
+        <div className="login-container my-3">
             <div>
                 <h1>Create a new account</h1>
                 <form onSubmit={registrationHandler}>
@@ -36,7 +36,7 @@ const Signup = () => {
                             <input onChange={handleEmail} type="email" className="form-control" placeholder="Enter your email" aria-label="email" aria-describedby="basic-addon1" />
                         </div>
                         <div className="input-group mb-3 w-25">
-                            <span className="input-group-text" id="basic-addon1">Email: </span>
+                            <span className="input-group-text" id="basic-addon1">Password: </span>
                             <input onChange={handlePassword} type="password" className="form-control" placeholder="Enter your password" aria-label="password" aria-describedby="basic-addon1" />
                         </div>
                         <input type="submit" value="Sign Up" className='btn btn-warning border' />
