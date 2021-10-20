@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "General Medicine",
+        "description": "Internal medicine or general medicine is the medical specialty dealing with the prevention, diagnosis, and treatment of adult diseases.",
+        "img": "https://www.majhospital.com//uploads/department/general-medicine.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Cardiology",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine.",
+        "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/248/248935/cardiology-cath-lab.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Orthopedics",
+        "description": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system.",
+        "img": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-951890054_header-1024x575.jpg?w=1155&h=1528"
+    },
+    {
+        "id": "4",
+        "name": "Dental",
+        "description": "The dental clinic is a place where a dentist performs dental procedures and treatments on patients. Dental clinics can be found in hospitals, schools, government offices.",
+        "img": "https://fermeliadental.com/wp-content/uploads/2019/05/benefits-of-regular-dental-visits.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "Modern Diagnostic Center",
+        "description": "WE CARE YOUR HEALTH AND CHECKUP WITH BEST Technology Popular Diagnostic Centre Ltd. has a collection of the most advanced medical technologies.",
+        "img": "https://images.jdmagicbox.com/comp/pune/f5/020pxx20.xx20.180529182533.v1f5/catalogue/rh-care-manik-baug-pune-qjx9hyywh1.jpg"
+    },
+    {
+        "id": "6",
+        "name": "24x7 Ambulance",
+        "description": "Need ambulance service near you? We provides emergency ambulance service with life support and freezing support. Book now.",
+        "img": "https://live.staticflickr.com/1915/45434732142_bbf78efcd7_b.jpg"
+    }
+]
